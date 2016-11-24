@@ -26,11 +26,6 @@ _Please bring your own headphones/earphones_
 
 5pm : Demos
 
-## Projects Created
-
-1. ??
-- ??
-
 ## Resources
 
 - [WebAudio School](https://mmckegg.github.io/web-audio-school/)
@@ -40,4 +35,10 @@ _Please bring your own headphones/earphones_
 - [WebMIDI API Spec](https://webaudio.github.io/web-midi-api/)
 - [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio)
 - [WebAudio Newsletter](http://blog.chrislowis.co.uk/waw.html)
+
+
+## Projects Created
+
+1. ??
+- ??
 
