@@ -2,6 +2,7 @@
 
 ## Announcements
 
+- Join us in the [Gitter Chat](https://gitter.im/notthetup/webaudiohackday-2016)!
 
 ## Details
 
@@ -12,6 +13,17 @@ _Please bring your own headphones/earphones_
 
 
 ## Schedule
+
+10am : Registration + Start Hacking
+
+12.30pm : Lunch
+
+1pm : Talks 
+  - Matt McKegg
+  - Soledad Penadés
+  - BandLab
+
+5pm : Demos
 
 ## Resources
 
