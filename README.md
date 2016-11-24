@@ -6,7 +6,7 @@
 
 ## Details
 
-- Venue : Bandlab, 12 Jalan Kilang Barat, Singapore
+- Venue : [Bandlab](https://www.bandlab.com/), 12 Jalan Kilang Barat, Singapore
 - Time : 10am-5pm
 - Registration : 
 
