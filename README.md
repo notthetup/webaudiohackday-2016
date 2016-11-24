@@ -26,6 +26,11 @@ _Please bring your own headphones/earphones_
 
 5pm : Demos
 
+## Projects Created
+
+1. ??
+- ??
+
 ## Resources
 
 - [WebAudio School](https://mmckegg.github.io/web-audio-school/)
