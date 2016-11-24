@@ -24,7 +24,7 @@ _Please bring your own headphones/earphones_
   - Soledad Penadés
   - BandLab
 
-5pm : Demos
+5pm : Demos + Prizes!
 
 ## Resources
 
