@@ -8,6 +8,7 @@
 
 - Venue : Bandlab, 12 Jalan Kilang Barat, Singapore
 - Time : 10am-5pm
+- Registration : 
 
 _Please bring your own headphones/earphones_
 
@@ -27,6 +28,7 @@ _Please bring your own headphones/earphones_
 
 ## Resources
 
+- [WebAudio School](https://mmckegg.github.io/web-audio-school/)
 - [WebAudio API Spec](http://webaudio.github.io/web-audio-api/)
 - [WebAudio Slack](https://web-audio-slackin.herokuapp.com/)
 - [Media Recorder API](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API)
