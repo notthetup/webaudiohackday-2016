@@ -10,7 +10,7 @@
 - Time : 10am-5pm
 - Registration : 
 
-_Please bring your own headphones/earphones_
+_Please bring along your own headphones/earphones_
 
 
 ## Schedule
