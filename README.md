@@ -7,7 +7,7 @@
 ## Details
 
 - Venue : [Bandlab](https://www.bandlab.com/), 12 Jalan Kilang Barat, Singapore
-- Time : 10am-5pm
+- Time : 10am-6pm
 - Registration : 
 
 _Please bring along your own headphones/earphones_
@@ -35,6 +35,7 @@ _Please bring along your own headphones/earphones_
 - [WebMIDI API Spec](https://webaudio.github.io/web-midi-api/)
 - [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio)
 - [WebAudio Newsletter](http://blog.chrislowis.co.uk/waw.html)
+- [Canopy](https://hoch.github.io/canopy/)
 
 
 ## Projects Created
