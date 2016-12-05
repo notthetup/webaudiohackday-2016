@@ -40,6 +40,8 @@ _Please bring along your own headphones/earphones_
 
 ## Projects Created
 
-1. ??
-- ??
+1. Machine Learning to tweak synth parameters : https://github.com/mdda/sequencer
+- Christmas Lights on Novation Launchpad : https://gist.github.com/zz85/c6442a25e189584fce820364a9b6c83d
+- Media Recorder : https://github.com/sole/mediarecorder-slides
+- WebAudio Volume Control : https://github.com/notthetup/webaudio-volume-control
 
